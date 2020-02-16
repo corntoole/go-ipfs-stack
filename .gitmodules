@@ -1,0 +1,9 @@
+[submodule "go-ipfs"]
+	path = go-ipfs
+	url = git@github.com:fission-suite/go-ipfs.git
+[submodule "go-ipfs-cmds"]
+	path = go-ipfs-cmds
+	url = git@github.com:fission-suite/go-ipfs-cmds.git
+[submodule "go-ipfs-files"]
+	path = go-ipfs-files
+	url = git@github.com:fission-suite/go-ipfs-files.git
